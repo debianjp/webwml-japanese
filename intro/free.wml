@@ -1,5 +1,5 @@
 #use wml::debian::template title="フリーとは何だろう？" NOHEADER="yes"
-<!--revision: $Id: free.wml,v 1.3 1999/09/25 09:02:36 japanese Exp $ :-->
+<!--revision: $Id: free.wml,v 1.4 2000/05/30 21:32:10 joy Exp $ :-->
 <!--original_revision:1.4:-->
 
 <H1>フリーとは何だろう？
@@ -76,7 +76,6 @@
 <LI>Artistic License(芸術家的ライセンス)
 <A HREF="http://language.perl.com/misc/Artistic.html">http://language.perl.com/misc/Artistic.html</A>。
 <LI><A HREF="../misc/bsd.license">BSD スタイル・ライセンス</A>。
-<LI><A HREF="../misc/modified.bsd.license">修正 BSD ライセンス</A>。
 </UL>
 
 <P>これらのライセンスが共通に持つ特徴があります。

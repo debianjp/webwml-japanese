@@ -1,7 +1,7 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>安全でない一時ファイルの作成</define-tag>
 <define-tag moreinfo>
-<p>Javier Fern&aacute;ndez-Sanguino Pe&ntilde;a さんは、旧式の Debian
+<p>Debian セキュリティ監査プロジェクトの Javier Fern&aacute;ndez-Sanguino Pe&ntilde;a さんは、旧式の Debian
 パッケージ用の補助パッケージ debmake 中の debstd スクリプトが
 安全ではない方法で一時ディレクトリを作成しているのに気付きました。
 これを攻撃することで、悪意を持ったユーザにより、
@@ -19,4 +19,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-615.data"
-# $Id: dsa-615.wml,v 1.1 2004/12/25 17:08:00 nov Exp $
+# $Id: dsa-615.wml,v 1.2 2005/01/17 03:59:21 nov Exp $

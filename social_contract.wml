@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian 社会契約"
-
+<!--original_revision: 1.5 :-->
   <!--                             -*- Mode: Sgml -*- 
   contract.html  
   Author           : Manoj Srivastava ( srivasta@tiamat.datasync.com ) 
@@ -12,7 +12,7 @@
   Status           : Unknown, Use with caution!
   HISTORY          : 
   Description      : 
-  $Id: social_contract.wml,v 1.12 1999/09/26 12:04:04 japanese Exp $
+  $Id: social_contract.wml,v 1.13 2000/01/29 16:49:40 japanese2 Exp $
   -->
 
 <P>Debian GNU/Linux システムの開発者により結成された Debian プロジェクトは
@@ -135,6 +135,6 @@
    </OL>
 
    <P><EM>Bruce Perens はこの文書の最初のドラフトを書き、1997 年 6 月に
-   開催された 1 カ月近くにおよぶ e-mail 会議での Debian 開発者からのコメントを
+   開催された 1 カ月近くにおよぶ電子メール会議での Debian 開発者からのコメントを
    参考にしてまとめました。後に彼は Debian 固有の記述を Debian フリーソフトウェア
    ガイドラインから削除してオープンソース定義を作成しました。</EM>

@@ -1,8 +1,8 @@
 <define-tag pagetitle>Debian はプロジェクトメンバー 2 人の死を悼みます</define-tag>
 <define-tag release_date>2004-05-15</define-tag>
 #use wml::debian::news
-# $Id: 20040515.wml,v 1.1 2004/05/17 22:27:56 kubota Exp $
-#use wml::debian::translation-check translation="1.1"
+# $Id: 20040515.wml,v 1.2 2004/05/24 03:35:21 nov Exp $
+#use wml::debian::translation-check translation="1.2"
 
 <p>最近、Debian プロジェクトはコミュニティのメンバー 2 人を失いました。
 Manuel Estrada Sainz ("ranty") さんと Andr&eacute;s Garc&iacute;a ("ErConde") さんが、

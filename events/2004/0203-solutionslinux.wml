@@ -6,7 +6,7 @@
 <define-tag enddate>2004-02-05</define-tag>
 <define-tag coord><a href="mailto:jblache@debian.org">Julien Blache</a></define-tag>
 <define-tag infolink>http://www.linuxsolutions.fr/en/</define-tag>
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="1.5"
 
 <define-tag intro>
 
@@ -27,7 +27,7 @@ CNIT Paris-La D&eacute;fense にて行われます。</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0203-solutionslinux.wml,v 1.1 2004/05/17 15:05:23 kubota Exp $
+# $Id: 0203-solutionslinux.wml,v 1.2 2005/02/07 06:32:51 joey Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="0203-solutionslinux-report">レポート</a>

@@ -11,7 +11,7 @@ DHCP クライアントマシン上で root 権限で任意のコマンドを実行する
 </p>
 
 <p>この問題は、旧安定版 (potato) ではバージョン1.3.17p12-8.1 で、
-また開発版 (sarge) および不安定版 (unstable)(sid) ではバージョン
+またテスト版 (testing) (sarge) および不安定版 (unstable) (sid) ではバージョン
 1.3.22pl2-2 で修正されています。
 現安定版 (woody) には、dhcpcd パッケージは含まれていません。</p>
 
@@ -21,4 +21,4 @@ DHCP クライアントマシン上で root 権限で任意のコマンドを実行する
 #use wml::debian::translation-check translation="1.1"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-219.data"
-# $Id: dsa-219.wml,v 1.1 2003/03/09 04:53:33 maehara Exp $
+# $Id: dsa-219.wml,v 1.2 2003/03/11 13:49:40 kubota Exp $

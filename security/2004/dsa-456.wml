@@ -28,9 +28,12 @@ href="http://isec.pl/vulnerabilities/isec-0014-mremap-unmap.txt">\
 
 <p>
 直ちに Linux カーネルパッケージをアップグレードすることをお勧めします。</p>
+
+<p>CAN-2004-0077 の
+<a href="CAN-2004-0077">脆弱性の一覧表</a></p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1.5"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-456.data"
-# $Id: dsa-456.wml,v 1.2 2004/03/12 11:12:18 kubota Exp $
+# $Id: dsa-456.wml,v 1.3 2004/04/27 00:47:09 kubota Exp $

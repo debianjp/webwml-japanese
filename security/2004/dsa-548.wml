@@ -16,7 +16,7 @@
 
 </define-tag>
 
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.3"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-548.data"
-# $Id: dsa-548.wml,v 1.2 2004/10/29 18:34:21 nov Exp $
+# $Id: dsa-548.wml,v 1.3 2004/10/30 13:41:10 nov Exp $

@@ -1,6 +1,6 @@
 #use wml::debian::template title="鍵署名 (Keysigning)"
-# $Id: keysigning.wml,v 1.1 2002/09/05 14:17:05 maehara Exp $
-#use wml::debian::translation-check translation="1.5"
+# $Id: keysigning.wml,v 1.2 2002/09/26 15:28:15 maehara Exp $
+#use wml::debian::translation-check translation="1.6"
 
 <p>トレードショウやカンファレンスではたくさんの開発者たちが集まりますから、
 他の人に自分の GnuPG 鍵に署名してもらい、

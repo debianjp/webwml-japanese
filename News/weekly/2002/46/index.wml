@@ -1,5 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-11-26" SUMMARY="世界地図, security が火事, インストーラ, SPI, APT, Knoppix, LibC"
-# $Id: index.wml,v 1.1 2002/12/21 08:43:46 kubota Exp $
+# $Id: index.wml,v 1.2 2002/12/26 10:34:22 kubota Exp $
+#use wml::debian::translation-check translation="1.6"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian 週刊ニュー
 スの今年の第 46 号へようこそ。フリーソフトウェアは政府での利用に適し

@@ -22,11 +22,11 @@ and Exposures project では以下の脆弱性を認識しています:</p>
 では、これらの問題はバージョン 3.0.3woody2 で修正されています。</p>
 
 <p>不安定版ディストリビューション (unstable、コードネーム sid)
-では、gopherd パッケージは既に存在しません。Pygopherd に置き換えられています。</a>
+では、gopherd パッケージは既に存在しません。Pygopherd に置き換えられています。</p>
 
 <p> gopherd パッケージのアップグレードをお勧めします。</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-638.data"
-# $Id: dsa-638.wml,v 1.1 2005/01/17 16:42:29 nov Exp $
+# $Id: dsa-638.wml,v 1.2 2005/02/27 02:09:45 jseidel Exp $

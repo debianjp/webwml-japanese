@@ -10,11 +10,11 @@
 では、この問題はバージョン 3.35-3woody3 で修正されています。</p>
 
 <p>不安定版ディストリビューション (unstable、コードネーム sid)
-では、このパッケージは既に存在しません。</a>
+では、このパッケージは既に存在しません。</p>
 
 <p>exim-tls パッケージのアップグレードをお勧めします。</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-637.data"
-# $Id: dsa-637.wml,v 1.2 2005/02/01 00:29:22 nov Exp $
+# $Id: dsa-637.wml,v 1.3 2005/02/27 02:09:45 jseidel Exp $

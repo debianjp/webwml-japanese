@@ -1,8 +1,8 @@
 #use wml::debian::template title="Debian 開発者のコーナー" BARETITLE="true"
 #use wml::debian::card
-#use wml::debian::translation-check translation="1.114"
+#use wml::debian::translation-check translation="1.115"
 
-# $Id: index.wml,v 1.47 2002/04/08 07:09:56 kubota Exp $
+# $Id: index.wml,v 1.48 2002/06/18 02:32:40 kubota Exp $
 
 <p>このページの情報は一般に公開されてはいますが、
 主に Debian 開発者を対象としています。</p>
@@ -298,6 +298,7 @@
           <li><a href="http://people.debian.org/~csmall/ipv6/">Debian
               IPv6 プロジェクト</a></li>
           <li><a href="debian-jr/">Debian Jr. プロジェクト</a></li>
+          <li><a href="debian-med/">Debian-Med (医療) プロジェクト</a></li>
       </ul>
       
   </card>

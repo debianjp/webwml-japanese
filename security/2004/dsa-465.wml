@@ -5,7 +5,7 @@ SSL プロトコルの実装である openssl に二つの欠陥が発見されました。
 この欠陥は、Codenomicon の TLS Test Tool により発見されたものです。
 詳細な情報は、<a href="http://www.uniras.gov.uk/vuls/2004/224012/index.htm">\
 NISCC 脆弱性勧告</a>および
-<a href="http://www.openssl.org/news/secadv_20040317.txt">OpenSSL
+<a href="http://www.openssl.org/news/secadv_20040317.txt">OpenSSL</a>
 からの勧告を参照ください。The Common Vulnerabilities and Exposures
 project では、以下の欠陥が指摘されています。</p>
 
@@ -37,4 +37,4 @@ openssl095 のバージョン 0.9.5a-6.woody.5 で修正されています。</p>
 #use wml::debian::translation-check translation="1.3"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-465.data"
-# $Id: dsa-465.wml,v 1.1 2004/03/25 06:35:52 kubota Exp $
+# $Id: dsa-465.wml,v 1.2 2004/03/30 13:36:18 kubota Exp $

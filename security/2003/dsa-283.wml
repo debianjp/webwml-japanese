@@ -1,6 +1,6 @@
 <define-tag description>安全でないファイル作成</define-tag>
 <define-tag moreinfo>
-<p>Ethan Benson discovered さんにより、XFS ファイルシステムの管理
+<p>Ethan Benson さんにより、XFS ファイルシステムの管理
 ユーティリティである xfsdump に問題が発見されました。
 ファイルシステムのクオータが有効になっている場合、xfsdump は
 xfsdq を起動して、ダンプしているファイルシステムの
@@ -31,4 +31,4 @@ xfsdq に追加されました。これは、標準出力ストリームに代わり
 #use wml::debian::translation-check translation="1.2"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-283.data"
-# $Id: dsa-283.wml,v 1.1 2003/04/14 02:19:42 kubota Exp $
+# $Id: dsa-283.wml,v 1.2 2003/04/14 14:10:19 kubota Exp $

@@ -3,7 +3,7 @@
 <p>netpbm
 は特定目的向けのプログラム多数からなるグラフィック変換ツールキットです。
 これらのプログラムの多くが、
-安全でないやり方で一時ファイルを作成していることが発見されました。
+安全でない方法で一時ファイルを作成していることが発見されました。
 この欠陥を攻撃することで、ローカルの攻撃者が、欠陥を持つ netpbm
 ツールを起動したユーザの権限で、ファイルを上書きできる可能性があります。</p>
 
@@ -21,4 +21,4 @@
 #use wml::debian::translation-check translation="1.2"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-426.data"
-# $Id: dsa-426.wml,v 1.1 2004/02/17 22:51:57 kubota Exp $
+# $Id: dsa-426.wml,v 1.2 2004/08/18 15:24:54 nov Exp $

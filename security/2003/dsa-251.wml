@@ -22,7 +22,7 @@ w3m ブラウザは、フレーム用ソースの HTML タグ、
 お勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-251.data"
-# $Id: dsa-251.wml,v 1.1 2003/02/22 23:34:32 kubota Exp $
+# $Id: dsa-251.wml,v 1.2 2004/08/04 16:25:24 nov Exp $

@@ -14,7 +14,7 @@ Safe コンパートメントを一度だけ使用するプログラムはこのバグの影響を
 </p>
 
 <p>この問題は、現安定版 (stable)(woody) ではバージョン 5.6.1-8.2 で、
-前安定版 (potato) ではバージョン 5.004.05-6.2 およびバージョン
+旧安定版 (potato) ではバージョン 5.004.05-6.2 およびバージョン
 5.005.03-7.2 で、不安定版 (unstable)(sid) ではバージョン 5.8.0-14 で
 各々修正されています。
 </p>
@@ -25,4 +25,4 @@ Safe コンパートメントを一度だけ使用するプログラムはこのバグの影響を
 #use wml::debian::translation-check translation="1.1"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-208.data"
-# $Id: dsa-208.wml,v 1.1 2002/12/17 01:18:42 kubota Exp $
+# $Id: dsa-208.wml,v 1.2 2002/12/18 07:02:54 kubota Exp $

@@ -1,7 +1,5 @@
-#use wml::debian::template title="Debian 憲章"
-#use wml::debian::translation-check translation="1.5"
-
-# $Id: constitution.wml,v 1.4 2003/02/02 05:12:32 maehara Exp $
+#use wml::debian::template title="Debian 憲章"  BARETITLE="true"
+#use wml::debian::translation-check translation="1.6"
 
 # <H1>Constitution for the Debian Project (v1.0)</H1>
 <H1>Debian プロジェクト憲章 (v1.0)</H1>

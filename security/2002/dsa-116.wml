@@ -17,5 +17,5 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-116.data"
-# $Id: dsa-116.wml,v 1.2 2002/08/26 23:32:22 barbier Exp $
-#use wml::debian::translation-check translation="1.1"
+# $Id: dsa-116.wml,v 1.3 2002/08/28 12:27:29 kubota Exp $
+#use wml::debian::translation-check translation="1.2"

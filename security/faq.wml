@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian security FAQ"
 #include "$(ENGLISHDIR)/security/faq.inc"
-#use wml::debian::translation-check translation="1.45"
-# $Id: faq.wml,v 1.26 2005/01/07 17:45:54 nov Exp $
+#use wml::debian::translation-check translation="1.46"
+# $Id: faq.wml,v 1.27 2005/02/01 03:53:05 nov Exp $
 
 <p>最近、以下のような質問をよく受けますので、
 それに答えるページを用意しました。</p>
@@ -317,7 +317,7 @@
 
 <toc-add-entry name=check>どのようにしたらパッケージの完全性をチェックできますか?</toc-add-entry>
 <p>A: Release ファイルのサインを、アーカイブに使った<a
-   href="http://ftp-master.debian.org/ziyi_key_2004.asc">\
+   href="http://ftp-master.debian.org/ziyi_key_2005.asc">\
    公開鍵</a>で照合することで、チェックすることができます。Release ファイルは
    Packages ファイルと Sources ファイルの MD5 チェックサムを含んでおり、
    Packages ファイルと Sources ファイルはバイナリパッケージとソースパッケージの

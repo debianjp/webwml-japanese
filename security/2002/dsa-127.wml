@@ -1,6 +1,6 @@
 <define-tag description>リモートでのバッファオーバーフロー</define-tag>
 <define-tag moreinfo>
-xpilot (X 用のマルチプレーヤ戦略ゲーム) のメンテナによる内部システム監査
+<p>xpilot (X 用のマルチプレーヤ戦略ゲーム) のメンテナによる内部システム監査
 によって、 xpilot サーバにバッファオーバーフローが発見されました。
 このオーバーフローは、リモートの攻撃者に、xpilot を動かしているサーバ
 にアクセスするように悪用されてしまいます。
@@ -13,5 +13,5 @@ Debian パッケージのバージョン 4.1.0-4.U.4alpha2.4.potato1
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-127.data"
-# $Id: dsa-127.wml,v 1.1 2002/04/18 05:10:45 kubota Exp $
-#use wml::debian::translation-check translation="1.1"
+# $Id: dsa-127.wml,v 1.2 2002/04/19 05:04:07 kubota Exp $
+#use wml::debian::translation-check translation="1.2"

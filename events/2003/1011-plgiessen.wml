@@ -12,7 +12,7 @@
 
 <p>Practical Linux は、地元の Linux ユーザグループによって開催される小さめのイベントの一つです。
 小さな展示会・フリートーク・ワークショップがおこなわれます。
-出席は自由です。</p>
+出席は無料です。</p>
 
 </define-tag>
 
@@ -25,7 +25,7 @@ APT ツールについてワークショップを開くことを予定しています。</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 1011-plgiessen.wml,v 1.1 2004/05/17 15:09:54 kubota Exp $
+# $Id: 1011-plgiessen.wml,v 1.2 2004/05/17 22:42:05 kubota Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="1011-plgiessen-report">レポート</a>

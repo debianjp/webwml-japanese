@@ -2,7 +2,7 @@
 <define-tag release_date>2001-11-5</define-tag>
 #use wml::debian::translation-check translation="1.5"
 #use wml::debian::news
-# $Id: 20011105.wml,v 1.4 2003/01/26 03:39:32 kubota Exp $
+# $Id: 20011105.wml,v 1.5 2004/05/12 03:29:52 kubota Exp $
 
 <define-tag dsa>
     <tr><td align="center"><a href="$(HOME)/security/2001/dsa-%0">DSA %0</a></td>      <td align="center">%1</td></tr>
@@ -31,11 +31,11 @@
 <h2>セキュリティ上の修正</h2>
 
 <p>このリリースは、
-これまでにセキュリティチームが警告を発表してきた、
+これまでにセキュリティチームが勧告を発表してきた、
 以下のセキュリティ上の修正を含んでいます。</p>
 
 <table border=0>
-<tr><th>Debian セキュリティ警告 ID</th>     <th>パッケージ</th></tr>
+<tr><th>Debian セキュリティ勧告 ID</th>     <th>パッケージ</th></tr>
     <tr><td align="center"><a href="$(HOME)/security/2000/20001219">DSA 006</a></td>     <td align="center">zope</td></tr>
     <tr><td align="center"><a href="$(HOME)/security/2000/20001220">DSA 007</a></td>    <td align="center">zope</td></tr>
 <dsa 043 zope>

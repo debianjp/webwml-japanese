@@ -5,7 +5,7 @@
 <define-tag date>5 月 2 日 - 4 日</define-tag>
 <define-tag infolink>http://www.softwarelivre.org/forum/</define-tag>
 <define-tag coord><a href="mailto:kov@debian.org">Gustavo Noronha Silva</a></define-tag>
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1.6"
 
 <define-tag intro>
 
@@ -26,7 +26,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0502-softwarelivre.wml,v 1.1 2004/06/23 15:45:39 nov Exp $
+# $Id: 0502-softwarelivre.wml,v 1.2 2004/09/03 13:58:37 florian Exp $
 #Related Links here (free form)
 
   英語の参加登録フォームは、

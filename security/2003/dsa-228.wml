@@ -27,7 +27,7 @@
 <p>すぐに libmcrypt パッケージをアップグレードすることを勧めます。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1.4"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-228.data"
-# $Id: dsa-228.wml,v 1.1 2003/03/11 13:08:47 kubota Exp $
+# $Id: dsa-228.wml,v 1.2 2004/09/03 14:16:08 florian Exp $

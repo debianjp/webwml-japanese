@@ -21,7 +21,7 @@ The Internet Software Consortium による ISC DHCP デーモンの監査により、
 <p>すぐに dhcp3-server パッケージをアップグレードすることを勧めます。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-231.data"
-# $Id: dsa-231.wml,v 1.1 2003/03/11 13:08:47 kubota Exp $
+# $Id: dsa-231.wml,v 1.2 2004/09/03 14:16:24 florian Exp $

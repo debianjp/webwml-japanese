@@ -1,4 +1,4 @@
-#use wml::debian::template title="A Social Contract"
+#use wml::debian::template title="Debian の社会契約"
 
   <!--                             -*- Mode: Sgml -*- 
   contract.html  
@@ -12,10 +12,8 @@
   Status           : Unknown, Use with caution!
   HISTORY          : 
   Description      : 
-  $Id: social_contract.wml,v 1.8 1998/11/23 09:42:12 japanese Exp $
+  $Id: social_contract.wml,v 1.9 1999/03/08 16:06:22 japanese Exp $
   -->
-
-<H1>Debian の社会契約</H1>
 
 <P>私たちは Debian GNU/Linux を開発している Software In The Public
 Interest です。この文書は、私たちがフリーソフトウェアコミュニティに約束

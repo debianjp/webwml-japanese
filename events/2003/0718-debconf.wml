@@ -24,6 +24,12 @@ Debian 開発者のための会議です。開発者でない人の参加も大歓迎ですが、
 </define-tag>
 
 #use wml::debian::event
-#use wml::debian::translation-check translation="1.1"
-# $Id: 0718-debconf.wml,v 1.2 2003/01/24 23:22:48 kubota Exp $
+#use wml::debian::translation-check translation="1.2"
+# $Id: 0718-debconf.wml,v 1.3 2003/07/15 14:07:06 maehara Exp $
 #Related Links here (free form)
+<ul>
+ <li><a href="http://www.debconf.org/debconf3/schedule.php">Detailed schedule</a>
+ <li><a href="http://www.debconf.org/debconf3/debcamp.php">Debcamp</a>
+ <li><a href="http://www.debconf.org/debconf3/lists.php">Mailing lists</a>
+</ul>
+

@@ -1,8 +1,8 @@
 #use wml::debian::template title="Debian 開発者のコーナー" BARETITLE="true"
 #include "$(ENGLISHDIR)/devel/index.include"
-#use wml::debian::translation-check translation="1.93"
+#use wml::debian::translation-check translation="1.94"
 
-# $Id: index.wml,v 1.30 2001/08/09 11:44:49 kubota Exp $
+# $Id: index.wml,v 1.31 2001/09/23 17:53:26 joy Exp $
 
 <P>このページの情報は一般に公開されてはいますが、
 主に Debian 開発者を対象としています。
@@ -193,7 +193,7 @@
   <card name="進行中の仕事">
       
       <dl>
-        <dt><strong><a href="http://master.debian.org/~wakkerma/bugs/">リリース上の致命的バグ</a></strong></dt>
+        <dt><strong><a href="http://bugs.debian.org/release-critical/">リリース上の致命的バグ</a></strong></dt>
 
         <dd>
         ここには、該当パッケージが frozen ディストリビューションから

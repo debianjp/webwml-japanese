@@ -13,7 +13,7 @@ GNU/Linux では 1.0.0-5 です。
 </p>
 
 <p>試験版/実験版のバージョンは安定版と同じものですので、こちらも脆弱性を持ちます。
-これらの版のシステムに対しては、本警告で記載の修正版をインストールすることで問題を修正可能です。
+これらの版のシステムに対しては、本勧告で記載の修正版をインストールすることで問題を修正可能です。
 また、このパッケージはアーキテクチャに依存しません。</p>
 
 <p>gnujsp パッケージを直ぐにアップグレードすることを勧めます。</p>
@@ -22,4 +22,4 @@ GNU/Linux では 1.0.0-5 です。
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-114.data"
 #use wml::debian::translation-check translation="1.1"
-# $Id: dsa-114.wml,v 1.2 2002/02/23 01:59:09 maehara Exp $
+# $Id: dsa-114.wml,v 1.3 2002/03/10 14:37:10 maehara Exp $

@@ -1,8 +1,8 @@
 #use wml::debian::template title="Debian 開発者のコーナー" BARETITLE="true"
 #include "$(ENGLISHDIR)/devel/index.include"
-#use wml::debian::translation-check translation="1.97"
+#use wml::debian::translation-check translation="1.98"
 
-# $Id: index.wml,v 1.34 2001/11/06 22:35:33 joy Exp $
+# $Id: index.wml,v 1.35 2001/12/01 14:12:28 joy Exp $
 
 <P>このページの情報は一般に公開されてはいますが、
 主に Debian 開発者を対象としています。
@@ -145,7 +145,7 @@
             いるパッケージのことです。これらのパッケージは、あなたの
             パッケージの <code>Build-Depends</code> 行に含める必要が
             ありません。
-        <li><a href="$(DOC)/packaging-manuals/menu.html/">メニューシステム</a>
+        <li><a href="$(DOC)/packaging-manuals/menu-policy/">メニューシステム</a>
         <br>通常の利用のためには特別なコマンドライン引数を必要としない
             プログラムは、メニューエントリを登録するべきです。
         <li><a href="$(DOC)/packaging-manuals/debian-emacs-policy">Emacs ポリシー</a>

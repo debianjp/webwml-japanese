@@ -2,7 +2,7 @@
 #use wml::debian::card
 #use wml::debian::translation-check translation="1.111"
 
-# $Id: index.wml,v 1.44 2002/02/11 16:09:03 maehara Exp $
+# $Id: index.wml,v 1.45 2002/03/18 01:46:25 treacy Exp $
 
 <p>このページの情報は一般に公開されてはいますが、
 主に Debian 開発者を対象としています。</p>
@@ -149,7 +149,7 @@
         <li><a href="$(DOC)/packaging-manuals/menu-policy/">メニューシステム</a>
         <br>通常の利用のためには特別なコマンドライン引数を必要としない
             プログラムは、メニューエントリを登録するべきです。
-	    <a href="$(DOC)/packaging-manuals/menu.html">メニュー
+	    <a href="$(DOC)/packaging-manuals/menu.html/">メニュー
             システム文書</a>も参照してください。</li>
         <li><a href="$(DOC)/packaging-manuals/mime-policy/">MIME サポート</a>
         <br>MIME タイプハンドラとは、その MIME タイプをサポートしていない

@@ -1,5 +1,5 @@
 #use wml::debian::translation-check translation="1.2"
-<define-tag description>バッファオーバーフロー</define-tag>
+<define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>広く利用されている画像処理用ライブラリ ImageMagick
 に脆弱性が発見されました。EXIF をパースするルーチン内の境界チェックエラーのため、
@@ -16,4 +16,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-593.data"
-# $Id: dsa-593.wml,v 1.1 2004/12/25 17:08:00 nov Exp $
+# $Id: dsa-593.wml,v 1.2 2004/12/25 17:14:21 nov Exp $

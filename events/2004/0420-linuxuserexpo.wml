@@ -19,12 +19,13 @@ Linux ベースのシステムの実装を担うユーザ・影響勢力・意志決定者と接触することがで
 
 <define-tag involve>
 
-<p>Debian プロジェクトは『.Org』村の中にあるブースにあり、主催者たちによって無料で提供されます。</p>
+<p>Debian プロジェクトは ".Org" Village 内にブースを出します。
+これは主催者たちによって無料で提供されるものです。</p>
 
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0420-linuxuserexpo.wml,v 1.1 2004/05/17 15:05:23 kubota Exp $
+# $Id: 0420-linuxuserexpo.wml,v 1.2 2004/05/17 22:40:16 kubota Exp $
 #Related Links here (free form)
 <ul>
   <li><a href="0420-linuxuserexpo-report">レポート</a>

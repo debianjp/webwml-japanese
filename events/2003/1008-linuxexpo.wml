@@ -19,12 +19,13 @@ Linux ベースのシステムの実装を担うユーザ・影響勢力・意志決定者と接触することがで
 
 <define-tag involve>
 
-Debian は『.Org』村の中にあるブースにあり、主催者たちによって無料で提供されます。
+Debian は ".Org" Village 内にブースを出します。
+これは主催者たちによって無料で提供されるものです。
 
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 1008-linuxexpo.wml,v 1.1 2004/05/17 15:09:54 kubota Exp $
+# $Id: 1008-linuxexpo.wml,v 1.2 2004/05/17 22:39:00 kubota Exp $
 #Related Links here (free form)
 <ul>
   <li><a href="http://the.earth.li/~huggie/cgi-bin/moin/DebianExpoList2003">調整</a>

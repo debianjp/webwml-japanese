@@ -1,7 +1,7 @@
 <define-tag pagetitle>ヨーロッパで開かれるいくつかの会議における Debian プロジェクト</define-tag>
 <define-tag release_date>2003-10-05</define-tag>
 #use wml::debian::news
-# $Id: 20031005.wml,v 1.1 2004/05/17 15:11:20 kubota Exp $
+# $Id: 20031005.wml,v 1.2 2004/05/17 22:34:51 kubota Exp $
 #use wml::debian::translation-check translation="1.2"
 
 <p>フリーソフトウェアと GNU/Linux を対象とした 4 つの展示会および会議が、
@@ -24,7 +24,7 @@
 <dd>
 
 <p>このフォーラムは、イギリスにおけるオープンソース革命に関与するすべての人のためのもので、
-Debian プロジェクトは『.Org』村の中にあるブースにあります。</p>
+Debian プロジェクトは ".Org" village の中にブースを出します。</p>
 
 </dd>
 

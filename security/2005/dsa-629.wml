@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>MIT Kerberos 5 管理ライブラリ (libkadm5srv)
@@ -18,4 +18,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-629.data"
-# $Id: dsa-629.wml,v 1.1 2005/01/11 17:25:32 nov Exp $
+# $Id: dsa-629.wml,v 1.2 2005/01/19 22:04:24 toddy Exp $

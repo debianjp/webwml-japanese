@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>°ÂÁ´¤Ç¤Ê¤¤°ì»þ¥Õ¥¡¥¤¥ë¤ÎºîÀ®</define-tag>
 <define-tag moreinfo>
 <p>Debian ¥»¥­¥å¥ê¥Æ¥£´Æºº¥×¥í¥¸¥§¥¯¥È¤Î°ì°÷¤Ç¤¢¤ë Javier Fern&aacute;ndez-Sanguino
@@ -30,4 +30,4 @@ The Common Vulnerabilities and Exposures project ¤Ç¤Ï°Ê²¼¤ÎÀÈ¼åÀ­¤òÇ§¼±¤·¤Æ¤¤¤Þ¤
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-661.data"
-# $Id: dsa-661.wml,v 1.1 2005/02/02 16:26:10 nov Exp $
+# $Id: dsa-661.wml,v 1.2 2005/02/04 08:57:56 nov Exp $

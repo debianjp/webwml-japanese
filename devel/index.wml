@@ -1,8 +1,8 @@
 #use wml::debian::template title="Debian 開発者のコーナー" BARETITLE="true"
 #use wml::debian::card
-#use wml::debian::translation-check translation="1.113"
+#use wml::debian::translation-check translation="1.114"
 
-# $Id: index.wml,v 1.46 2002/03/31 06:46:42 kubota Exp $
+# $Id: index.wml,v 1.47 2002/04/08 07:09:56 kubota Exp $
 
 <p>このページの情報は一般に公開されてはいますが、
 主に Debian 開発者を対象としています。</p>
@@ -203,7 +203,7 @@
         <dt><strong><a href="http://bugs.debian.org/release-critical/">リリース上の致命的バグ</a></strong></dt>
 
         <dd>
-        ここには、該当パッケージが frozen ディストリビューションから
+        ここには、該当パッケージが試験版 (testing) ディストリビューションから
         削除されたり、ときにはディストリビューションのリリースが
         遅れる原因となるようなバグの一覧があります。重要度
         (severity) が「serious」以上のバグがこれに相当します。

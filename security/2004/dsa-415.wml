@@ -11,7 +11,7 @@ telnet CLI のバグにより、リモートのユーザが zebra
 
 <li><a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2003-0858">CAN-2003-0858</a> -
 他のユーザから (カーネルからではなく) 送られた netlink 
-メッセージを受け入れてしまうため、サービス不能 (DoS) 攻撃が可能です。</p>
+メッセージを受け入れてしまうため、サービス不能 (DoS) 攻撃が可能です。</li>
 
 </ul>
 
@@ -28,4 +28,4 @@ telnet CLI のバグにより、リモートのユーザが zebra
 #use wml::debian::translation-check translation="1.1"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-415.data"
-# $Id: dsa-415.wml,v 1.1 2004/02/22 06:28:58 kubota Exp $
+# $Id: dsa-415.wml,v 1.2 2004/03/23 04:31:28 kubota Exp $

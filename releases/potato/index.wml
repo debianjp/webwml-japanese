@@ -2,8 +2,8 @@
 #use wml::debian::release
 #include "$(ENGLISHDIR)/releases/potato/release.data"
 #include "$(ENGLISHDIR)/releases/info"
-# $Id: index.wml,v 1.18 2004/04/22 07:15:47 kubota Exp $
-#use wml::debian::translation-check translation="1.63"
+# $Id: index.wml,v 1.19 2004/11/28 22:45:37 jseidel Exp $
+#use wml::debian::translation-check translation="1.64"
 
 <p>Debian GNU/Linux 2.2 (別名 Potato) は
 <:=spokendate ("2000-08-14"):>にリリースされました。

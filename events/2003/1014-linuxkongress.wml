@@ -4,9 +4,9 @@
 <define-tag where>ドイツ、ザールブリュッケン</define-tag>
 <define-tag startdate>2003-10-14</define-tag>
 <define-tag enddate>2003-10-16</define-tag>
-<define-tag infolink>http://www.linux-kongress.de/</define-tag>
+<define-tag infolink>http://www.linux-kongress.org/</define-tag>
 <define-tag coord><a href="mailto:aw@linux.de">Arne Wichmann</a></define-tag>
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="1.10"
 
 <define-tag intro>
 
@@ -24,7 +24,7 @@ Linux 内部についての深い知識によって人々は魅了されます。</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 1014-linuxkongress.wml,v 1.1 2004/05/17 15:09:54 kubota Exp $
+# $Id: 1014-linuxkongress.wml,v 1.2 2004/09/11 17:30:57 jseidel Exp $
 #Related Links here (free form)
 <ul>
 <li>Thomas Lange さん:

@@ -1,6 +1,6 @@
 <define-tag pagetitle>Debian GNU/Linux 3.0 のアップデート (リビジョン 1)</define-tag>
 <define-tag release_date>2002-12-16</define-tag>
-# $Id: 20021216.wml,v 1.3 2002/12/18 04:42:45 kubota Exp $
+# $Id: 20021216.wml,v 1.4 2003/01/04 13:45:15 kubota Exp $
 #use wml::debian::translation-check translation="1.2"
 #use wml::debian::news
 
@@ -31,13 +31,13 @@ ftp.debian.org を用いてアップデートをする必要があります。</P>
 Debian の FTP/HTTP ミラーのどれか一つを参照するように
 「apt」パッケージツールを設定します。 
 (sources.list(5) のマニュアルページを参照してください)
-ミラーの一覧は、
+ミラーの一覧は、</p>
 
 <div align="center">
   <a href="$(HOME)/distrib/ftplist">http://www.debian.org/distrib/ftplist</a>
 </div>
 
-で参照できます。</P>
+<P>で参照できます。</P>
 
 <h2>セキュリティ上の修正</h2>
 

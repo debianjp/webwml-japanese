@@ -7,7 +7,7 @@
 #    @tmpl_lang@ is replaced by each language code by
 #    webwml/english/international/l10n/script/fix-files.pl
 
-#  $Id: tmpl.src,v 1.3 2003/09/04 08:46:45 kubota Exp $
+#  $Id: tmpl.src,v 1.4 2003/09/09 07:32:44 mquinson Exp $
 
 #include "$(ENGLISHDIR)/international/l10n/templates/menu.inc"
 
@@ -35,7 +35,8 @@
 <p>以下の Debconf テンプレートをダウンロードして翻訳し、
 パッケージメンテナ宛にバグ報告としてそれを提出できます。
 
-#include '$(ENGLISHDIR)/international/l10n/templates/translated.inc'
+#include '$(ENGLISHDIR)/international/l10n/templates/todo.inc'
+#include '$(ENGLISHDIR)/international/l10n/templates/ok.inc'
 
 <h2>Debconf をサポートしているパッケージ</h2>
 <p>以下のパッケージは Debconf テンプレートを持っていますが、

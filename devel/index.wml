@@ -2,7 +2,7 @@
 #include "$(ENGLISHDIR)/devel/index.include"
 #use wml::debian::translation-check translation="1.91"
 
-# $Id: index.wml,v 1.28 2001/07/04 05:19:48 kubota Exp $
+# $Id: index.wml,v 1.29 2001/07/09 15:33:31 kraai Exp $
 
 <P>このページの情報は一般に公開されてはいますが、
 主に Debian 開発者を対象としています。
@@ -310,7 +310,7 @@
         <li><a href="http://auric.debian.org/~tausq/newpkgs.html">最近
             7 日間の新しいパッケージ</a>
         <li><a href="cvs_packages">CVS を使って Debian パッケージを保守する方法</a>.
-	<li><a href="autobuilders">自動パッケージ構築</a>
+	<li><a href="buildds">自動パッケージ構築</a>
         </ul>
       
       <p>外部へのリンク:

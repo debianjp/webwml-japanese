@@ -1,6 +1,5 @@
 #use wml::debian::template title="フリーとは何だろう？" NOHEADER="yes"
-<!--revision: $Id: free.wml,v 1.4 2000/05/30 21:32:10 joy Exp $ :-->
-<!--original_revision:1.4:-->
+#use wml::debian::translation-check translation="1.4"
 
 <H1>フリーとは何だろう？
 <tt>あるいは</tt> オープンソフトウエア とは何を意味するのか？</H1>

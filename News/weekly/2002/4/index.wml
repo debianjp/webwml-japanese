@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-01-23" SUMMARY="ブートフロッピー, スポンサー, フリーズの進展, APT, カンファレンス, VAX への移植, モバイル Debian"
-# $Id: index.wml,v 1.3 2002/02/12 15:45:49 kubota Exp $
+# $Id: index.wml,v 1.4 2003/01/02 11:44:16 kubota Exp $
 #use wml::debian::translation-check translation="1.6"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
@@ -176,7 +176,7 @@ href="http://lists.debian.org/debian-security-0201/msg00430.html">これ</a>)
 で悩まされています。これらのメーリングリストの講読をやめてしまう人がいる
 一方で、これらのメールが配達されないようにする解決策を
 提案する人たちもいます: <a
-href="http://lists.debian.org/debian-security-0201/msg00229.html">procmail<a>
+href="http://lists.debian.org/debian-security-0201/msg00229.html">procmail</a>
 のルール、<a
 href="http://spamassassin.taint.org/">spamassassin</a>、<a
 href="http://spamfilter.nl.linux.org/">spamfilter</a>
@@ -285,11 +285,11 @@ href="http://spamfilter.nl.linux.org/">spamfilter</a>
 Debian コミュニティでおきていることをすべて私たちに知らせてください。
 もっと興味深い話を追加するのを楽しみにしています。ボランティアの筆者に
 よる記事を特に。
-<a href="mailto:dwn@debian.org">dwn@debian.org</a>.</p>
+<a href="mailto:dwn@debian.org">dwn@debian.org</a>
 であなたのメールをお待ちしております。</p>
 
 <p><strong>最新ニュース: Tunney 法</strong>。
-<a ref="http://www.winehq.com/">WINE project</a>
+<a href="http://www.winehq.com/">WINE project</a>
 の Jeremy White さんが恥の告白と<a
 href="http://www.codeweavers.com/~jwhite/tunney.html">行動</a>への要求を
 リリースしました。WINE、フリーソフトウェアそして Microsoft について

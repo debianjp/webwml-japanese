@@ -26,7 +26,7 @@ cyrus-sasl のバージョン 1.5.28-6.2 および cyrus-sasl2 のバージョン
 <p>直ちに libsasl 関連のパッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1.6"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-563.data"
-# $Id: dsa-563.wml,v 1.2 2004/10/15 17:11:36 nov Exp $
+# $Id: dsa-563.wml,v 1.3 2005/02/21 03:55:25 nov Exp $

@@ -2,7 +2,7 @@
 <define-tag release_date>2002-07-19</define-tag>
 #use wml::debian::news
 #use wml::debian::translation-check translation="1.4"
-# $Id: 20020719.wml,v 1.1 2002/07/20 14:10:21 kubota Exp $
+# $Id: 20020719.wml,v 1.2 2002/07/21 05:55:23 kubota Exp $
 
 <p>
 Debian プロジェクトは、ここに Debian GNU/Linux バージョン 3.0 のリリー
@@ -55,7 +55,7 @@ Debian GNU/Linux のインストールは、CD やネットワーク、あるいは数枚の
 GNU/Linux システムのアップグレードは、苦労することなく、適切な順序で、
 システムを停止させずに行なうことができます。Debian GNU/Linux のインス
 トールとアップグレードについての詳しい説明は、<a 
-href="$(HOME)/releases/woody/releasenotes">リースノート</a>を参照
+href="$(HOME)/releases/woody/releasenotes">リリースノート</a>を参照
 してください。</p>
 
 <p>

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1.4"
 <define-tag description>クロスサイトスクリプティング, ディレクトリ間の不正な移動</define-tag>
 <define-tag moreinfo>
 <p>手違いによって前回の mailman の更新は多少問題があり、修正が必要でした。
@@ -44,4 +44,4 @@ href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2005-0202">CAN-2005-0202
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-674.data"
-# $Id: dsa-674.wml,v 1.1 2005/02/21 03:52:59 nov Exp $
+# $Id: dsa-674.wml,v 1.2 2005/02/25 03:28:56 nov Exp $

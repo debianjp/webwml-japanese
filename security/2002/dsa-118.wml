@@ -2,11 +2,13 @@
 <define-tag moreinfo>
 <p>Tim Waugh さんはスキャナ用のプログラム xsane
 で、一時ファイルを安全でないやり方で使用している箇所が何カ所かあることを見つけました。
-この問題は、安定版 Debian では、/tmp
+この問題は、安定版 (stable) Debian では、/tmp
 下に安全なやり方で作成されたディレクトリの下に問題のファイルを移すことで対処されています。</p>
 
-<p>この問題は安定版の Debian ディストリビューションではバージョン 0.50-5.1
-で、試験版/実験版ではバージョン 0.84-0.1 で修正されています。</p>
+<p>この問題は安定版 (stable) の Debian
+ディストリビューションではバージョン 0.50-5.1
+で、テスト版 (testing) / 不安定版 (unstable)
+ではバージョン 0.84-0.1 で修正されています。</p>
 
 <p>xsane パッケージを直ぐにアップグレードすることを勧めます。
 </p>
@@ -15,4 +17,4 @@
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-118.data"
 #use wml::debian::translation-check translation="1.1"
-# $Id: dsa-118.wml,v 1.2 2002/03/10 16:16:17 maehara Exp $
+# $Id: dsa-118.wml,v 1.3 2002/06/10 08:46:28 kubota Exp $

@@ -12,7 +12,7 @@ Exposures project</a> がこの問題に、
 という番号を与えています。</p>
 
 <p>この問題は安定版 (stable) の Debian ではバージョン 5.0-6.0potato2
-で修正されています。テスト版 (testing) /実験版 (unstable) のリリースでは
+で修正されています。テスト版 (testing) / 不安定版 (unstable) のリリースでは
 ncurses 5.2 を使っており、これには今回の問題はありません。</p>
 
 <p>現時点でこの問題に対する攻撃方法は知られていませんが、全ユーザが直ぐに
@@ -23,4 +23,4 @@ ncurses をアップグレードすることを勧めます。
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-113.data"
 #use wml::debian::translation-check translation="1.2"
-# $Id: dsa-113.wml,v 1.2 2002/03/17 12:05:16 maehara Exp $
+# $Id: dsa-113.wml,v 1.3 2002/06/10 08:46:28 kubota Exp $

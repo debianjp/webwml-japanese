@@ -6,7 +6,7 @@
 <define-tag enddate>2004-05-29</define-tag>
 <define-tag infolink>http://wien.linuxwochen.at/</define-tag>
 <define-tag coord><a href="mailto:alfie@debian.org">Gerfried Fuchs</a></define-tag>
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.6"
 
 <define-tag intro>
   これは、オーストリアの複数の場所を巡って行われる地方巡業です。
@@ -22,7 +22,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0526-linuxwochen.wml,v 1.1 2004/06/07 08:55:33 kubota Exp $
+# $Id: 0526-linuxwochen.wml,v 1.2 2004/06/07 09:05:59 kubota Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="0526-linuxwochen-report">レポート</a></li>

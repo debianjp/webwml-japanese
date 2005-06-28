@@ -6,7 +6,7 @@
 <define-tag enddate>2004-02-17</define-tag>
 <define-tag infolink>http://www.linux-expo.de/</define-tag>
 <define-tag coord><a href="mailto:joergland@debian.org">Joerg Wendland</a></define-tag>
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1.4"
 
 <define-tag intro>
 
@@ -22,7 +22,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0216-linux-expo-ulm.wml,v 1.2 2004/05/17 22:30:49 kubota Exp $
+# $Id: 0216-linux-expo-ulm.wml,v 1.3 2005/06/28 17:13:33 kreutzm Exp $
 <ul>
- <li><a href="http://www.schmehl.info/gallery/linux-expo-ulm">写真</a>
+ <li><a href="http://gallery.schmehl.info/linux-expo-ulm">写真</a>
 </ul>

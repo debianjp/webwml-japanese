@@ -9,7 +9,7 @@ samba (人気の SMB/CIFS 実装) に二つの問題を発見しました。
 再構成するコードにバッファオーバーフローがあります。
 smbd は root 権限で動くため、攻撃者はこれを悪用して、
 smbd を動かしているマシンで root 権限を奪取することができる
-可能性があります。<li>
+可能性があります。</li>
 
 
 <li>reg ファイルに書き込みを行うコードには chown 時の競合関係があり、
@@ -23,4 +23,4 @@ smbd を動かしているマシンで root 権限を奪取することができる
 #use wml::debian::translation-check translation="1.1"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-262.data"
-# $Id: dsa-262.wml,v 1.1 2003/03/19 01:18:34 kubota Exp $
+# $Id: dsa-262.wml,v 1.2 2006/03/30 10:32:46 nov Exp $

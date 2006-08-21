@@ -30,7 +30,7 @@ SSL は、リモートの攻撃者に、認証されていない RSA 秘密鍵操作を許して
 </p>
 
 <p>旧安定版 (potato) では、これらの問題はバージョン
-version 0.9.6c-2.woody.3 で修正されています。</p>
+version 0.9.6c-0.potato.6 で修正されています。</p>
 
 <p>不安定版 (unstable)(sid) では、これらの問題は、openssl のバージョン
 0.9.7b-1 および  openssl096 のバージョン 0.9.6j-1 で修正されています。</p>
@@ -64,4 +64,4 @@ version 0.9.6c-2.woody.3 で修正されています。</p>
 #use wml::debian::translation-check translation="1.3"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-288.data"
-# $Id: dsa-288.wml,v 1.2 2003/05/13 17:08:16 kubota Exp $
+# $Id: dsa-288.wml,v 1.3 2006/08/21 22:54:31 jseidel Exp $

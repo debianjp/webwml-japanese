@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1.6"
 <define-tag description>クロスサイトスクリプティング, ディレクトリ間の不正な移動</define-tag>
 <define-tag moreinfo>
 <p>Python 1.5 および 2.1 間の非互換性により、前回の mailman の更新は Python 1.5
@@ -47,4 +47,4 @@ href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2005-0202">CAN-2005-0202
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-674.data"
-# $Id: dsa-674.wml,v 1.3 2005/02/28 09:09:51 nov Exp $
+# $Id: dsa-674.wml,v 1.4 2007/03/31 20:52:45 jseidel Exp $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.3"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>ウェブベースの掲示版ソフトウェア phpBB に、リモートから攻撃可能な複数の
@@ -52,4 +52,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1488.data"
-# $Id: dsa-1488.wml,v 1.1 2008/02/10 12:46:47 kmuto Exp $
+# $Id: dsa-1488.wml,v 1.2 2008/02/23 07:13:12 kmuto Exp $

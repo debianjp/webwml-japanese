@@ -24,7 +24,7 @@ project は以下の問題を認識しています。</p>
     <p><q>moz_bug_r_a4</q> さんにより、イベントハンドラの安全でない処理のため、ク
     ロスサイトスクリプティングが可能であることが発見されました。</p>
 
-<p><a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-1235">CVE-2008-1235</a>
+<li><a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-1235">CVE-2008-1235</a>
   
     <p>Boris Zbarsky さん、Johnny Stenback さん、および <q>moz_bug_r_a4</q> さん
     により、プリンシパル処理コードにバグがあり、クロスサイトスクリプティ
@@ -76,4 +76,4 @@ project は以下の問題を認識しています。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1532.data"
-# $Id: dsa-1532.wml,v 1.1 2008/03/30 03:42:04 kmuto Exp $
+# $Id: dsa-1532.wml,v 1.2 2008/04/10 19:04:07 jseidel Exp $

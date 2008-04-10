@@ -30,6 +30,7 @@ JPEG 画像から EXIF メタデータを抽出するユーティリティ exiftags に複数の
 <p>安定版 (stable) ディストリビューション (etch) では、これらの問題はバージ
 ョン 0.98-1.1+etch1 で修正されています。</p>
 
+# CHECK THIS! (s/Etch/Sarge/??)
 <p>旧安定版の更新は、Debian アーカイブ管理スクリプトの技術的制約により、Etch
 と同時には提供ができませんでした。</p>
 
@@ -42,4 +43,4 @@ JPEG 画像から EXIF メタデータを抽出するユーティリティ exiftags に複数の
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1533.data"
-# $Id: dsa-1533.wml,v 1.1 2008/03/30 03:42:04 kmuto Exp $
+# $Id: dsa-1533.wml,v 1.2 2008/04/10 20:03:40 jseidel Exp $

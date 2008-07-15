@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>X ウィンドウシステムに、ローカルから攻撃可能な複数の問題が発見されました。
@@ -53,4 +53,4 @@ The Common Vulnerabilities and Exposures project は以下の問題を認識して
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1595.data"
-# $Id: dsa-1595.wml,v 1.1 2008/06/13 14:43:50 kmuto Exp $
+# $Id: dsa-1595.wml,v 1.2 2008/07/15 11:24:44 kmuto Exp $

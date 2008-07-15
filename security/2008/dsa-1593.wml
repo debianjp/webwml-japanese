@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>入力のサニタイズ漏れ</define-tag>
 <define-tag moreinfo>
 <p>ホストマネージャウェブアプリケーションの入力のサニタイズが十分でなく、ク
@@ -15,4 +15,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1593.data"
-# $Id: dsa-1593.wml,v 1.1 2008/06/13 14:43:50 kmuto Exp $
+# $Id: dsa-1593.wml,v 1.2 2008/07/15 11:23:57 kmuto Exp $

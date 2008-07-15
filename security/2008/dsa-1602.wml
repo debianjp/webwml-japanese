@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Tavis Ormandy さんにより、Perl 互換の正規表現ライブラリ PCRE が特定の
@@ -16,4 +16,4 @@ in-pattern オプションとブランチを含む正規表現をコンパイルする際にヒープ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1602.data"
-# $Id: dsa-1602.wml,v 1.1 2008/07/07 01:16:52 kmuto Exp $
+# $Id: dsa-1602.wml,v 1.2 2008/07/15 11:25:13 kmuto Exp $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>
@@ -82,4 +82,4 @@ project は以下の問題を認識しています。
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1463.data"
-# $Id: dsa-1463.wml,v 1.1 2008/01/16 04:49:44 kmuto Exp $
+# $Id: dsa-1463.wml,v 1.2 2008/09/13 12:23:19 florian Exp $

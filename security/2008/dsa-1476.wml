@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>プログラムミス</define-tag>
 <define-tag moreinfo>
 <p>Marcus Meissner さんにより PulseAudio サウンドサーバが特権を落とす際のチ
@@ -15,4 +15,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1476.data"
-# $Id: dsa-1476.wml,v 1.1 2008/01/29 04:01:44 kmuto Exp $
+# $Id: dsa-1476.wml,v 1.2 2008/09/13 12:23:19 florian Exp $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Simon Willison さんにより、Python ウェブフレームワーク Django が HTTP
@@ -25,4 +25,4 @@ The Common Vulnerabilities and Exposures project はこの問題を
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1640.data"
-# $Id: dsa-1640.wml,v 1.1 2008/09/23 04:30:30 kmuto Exp $
+# $Id: dsa-1640.wml,v 1.2 2008/10/01 14:25:16 kmuto Exp $

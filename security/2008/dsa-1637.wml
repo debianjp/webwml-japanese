@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>git 分散バージョン管理システムのコア部 git-core に複数の欠陥が発見されま
@@ -20,4 +20,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1637.data"
-# $Id: dsa-1637.wml,v 1.1 2008/09/19 12:50:53 kmuto Exp $
+# $Id: dsa-1637.wml,v 1.2 2008/12/31 12:43:56 kmuto Exp $

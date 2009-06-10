@@ -1,8 +1,8 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 
-<p>Diego Petten さんにより、C ルーチンの GLib ライブラリ glib2.0 の Base64
+<p>Diego Petten&ograve; さんにより、C ルーチンの GLib ライブラリ glib2.0 の Base64
 エンコード関数で巨大な文字列を安全でない方法で扱っていることが発見されま
 した。この欠陥を攻撃することにより、任意のコードの実行が可能です。</p>
 
@@ -24,4 +24,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1747.data"
-# $Id: dsa-1747.wml,v 1.1 2009/03/23 13:01:19 kmuto Exp $
+# $Id: dsa-1747.wml,v 1.2 2009/06/10 13:58:29 kmuto Exp $

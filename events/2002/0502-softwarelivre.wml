@@ -1,35 +1,35 @@
 <define-tag abbr>FISL</define-tag>
 <define-tag year>2002</define-tag>
 <define-tag pagetitle>F&oacute;rum Internacional de Software Livre</define-tag>
-<define-tag where>¥Ö¥é¥¸¥ë¡¢¥İ¥ë¥È¥¢¥ì¥°¥ì</define-tag>
-<define-tag date>5 ·î 2 Æü - 4 Æü</define-tag>
+<define-tag where>ãƒ–ãƒ©ã‚¸ãƒ«ã€ãƒãƒ«ãƒˆã‚¢ãƒ¬ã‚°ãƒ¬</define-tag>
+<define-tag date>5 æœˆ 2 æ—¥ - 4 æ—¥</define-tag>
 <define-tag infolink>http://www.softwarelivre.org/forum/</define-tag>
 <define-tag coord><a href="mailto:kov@debian.org">Gustavo Noronha Silva</a></define-tag>
 #use wml::debian::translation-check translation="1.6"
 
 <define-tag intro>
 
-  Æî¥Ö¥é¥¸¥ë¤ÎÅÔ»Ô¡¦¥İ¥ë¥È¥¢¥ì¥°¥ì¤Ç¤³¤Î International Free Software Convention
-  ¤¬³«¤«¤ì¤ë¤Î¤Ï 3 ÅÙÌÜ¤Ë¤Ê¤ê¤Ş¤¹¡£Gnome Foundation, Free Software Foundation,
-  Linux International ¤Ê¤É¤Î¤è¤¦¤ÊÂ¿¤¯¤Î¹ñºİÁÈ¿¥¤Ë¤è¤Ã¤Æ¡¢
-  ¹Ö±é¡¦È¯É½¡¦¥ï¡¼¥¯¥·¥ç¥Ã¥×¤¬³«¤«¤ì¤ë¤³¤È¤¬´üÂÔ¤µ¤ì¤Ş¤¹¡£
+  å—ãƒ–ãƒ©ã‚¸ãƒ«ã®éƒ½å¸‚ãƒ»ãƒãƒ«ãƒˆã‚¢ãƒ¬ã‚°ãƒ¬ã§ã“ã® International Free Software Convention
+  ãŒé–‹ã‹ã‚Œã‚‹ã®ã¯ 3 åº¦ç›®ã«ãªã‚Šã¾ã™ã€‚Gnome Foundation, Free Software Foundation,
+  Linux International ãªã©ã®ã‚ˆã†ãªå¤šãã®å›½éš›çµ„ç¹”ã«ã‚ˆã£ã¦ã€
+  è¬›æ¼”ãƒ»ç™ºè¡¨ãƒ»ãƒ¯ãƒ¼ã‚¯ã‚·ãƒ§ãƒƒãƒ—ãŒé–‹ã‹ã‚Œã‚‹ã“ã¨ãŒæœŸå¾…ã•ã‚Œã¾ã™ã€‚
 
 </define-tag>
 
 <define-tag involve>
 
-  Debian ¥×¥í¥¸¥§¥¯¥È¤ÎÂåÉ½¤È¤·¤Æ¡¢¥Ö¥é¥¸¥ë¤Î³«È¯¼Ô¤Û¤ÜÁ´°÷¤¬»²²Ã¤¹¤ëÍ½Äê¤Ç¤¹¡£
-  Èà¤é¤Ï¡¢Debian ¤Î¥¤¥ó¥¹¥È¡¼¥ë¤äÍøÍÑÊıË¡¤Ë´Ø¤¹¤ë¹ÖºÂ¤ò¼çºÅ¤·¤Ş¤¹¡£
-  ¤Ş¤¿¡¢ÃÏ¸µ¤Î Debian-RS ¤È¤¤¤¦¥æ¡¼¥¶¥°¥ë¡¼¥×¤È¶¦¤Ë Debian ¤ä Debian-BR
-  ¤Ë¤Ä¤¤¤Æ¹Ö±é¤¹¤ëÍ½Äê¤Ç¤¹¡£
+  Debian ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®ä»£è¡¨ã¨ã—ã¦ã€ãƒ–ãƒ©ã‚¸ãƒ«ã®é–‹ç™ºè€…ã»ã¼å…¨å“¡ãŒå‚åŠ ã™ã‚‹äºˆå®šã§ã™ã€‚
+  å½¼ã‚‰ã¯ã€Debian ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã‚„åˆ©ç”¨æ–¹æ³•ã«é–¢ã™ã‚‹è¬›åº§ã‚’ä¸»å‚¬ã—ã¾ã™ã€‚
+  ã¾ãŸã€åœ°å…ƒã® Debian-RS ã¨ã„ã†ãƒ¦ãƒ¼ã‚¶ã‚°ãƒ«ãƒ¼ãƒ—ã¨å…±ã« Debian ã‚„ Debian-BR
+  ã«ã¤ã„ã¦è¬›æ¼”ã™ã‚‹äºˆå®šã§ã™ã€‚
 
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0502-softwarelivre.wml,v 1.2 2004/09/03 13:58:37 florian Exp $
+# $Id: 0502-softwarelivre.wml,v 1.3 2009/08/22 11:08:07 osamu Exp $
 #Related Links here (free form)
 
-  ±Ñ¸ì¤Î»²²ÃÅĞÏ¿¥Õ¥©¡¼¥à¤Ï¡¢
+  è‹±èªã®å‚åŠ ç™»éŒ²ãƒ•ã‚©ãƒ¼ãƒ ã¯ã€
   <a href="http://www.softwarelivre.rs.gov.br/forum/index.php?menu=inscricoes">\
   http://www.softwarelivre.rs.gov.br/forum/index.php?menu=inscricoes</a>
-  ¤Î²¼¤ÎÊı¤Ç¸«¤Ä¤«¤ë¤Ç¤·¤ç¤¦¡£
+  ã®ä¸‹ã®æ–¹ã§è¦‹ã¤ã‹ã‚‹ã§ã—ã‚‡ã†ã€‚

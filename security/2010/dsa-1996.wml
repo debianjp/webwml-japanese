@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.3"
 <define-tag description>特権の昇格/サービス拒否攻撃/機密情報の漏洩</define-tag>
 <define-tag moreinfo>
                  
@@ -113,4 +113,4 @@ linux-2.6 と linux-2.6.24 パッケージで修正予定です。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1996.data"
-# $Id: dsa-1996.wml,v 1.2 2010/06/16 10:14:34 victory-guest Exp $
+# $Id: dsa-1996.wml,v 1.3 2010/06/16 10:15:57 victory-guest Exp $

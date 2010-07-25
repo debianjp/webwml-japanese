@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -10,7 +10,7 @@
 して不正なメディアファイルやストリームを開かせることによりサービス拒否攻
 撃や任意のコードの実行が可能です。</p>
 
-<p>今回影響があり、更新されたのは以下のコーデックやコンテナ実装です。</p>
+<p>以下の影響を受けるコーデックとコンテナフォーマットの実装が更新されました:</p>
 
 <ul>
 <li>Vorbis オーディオコーデック</li>
@@ -34,4 +34,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2000.data"
-# $Id: dsa-2000.wml,v 1.1 2010/02/23 03:26:52 kmuto Exp $
+# $Id: dsa-2000.wml,v 1.2 2010/07/25 06:41:59 kmuto Exp $

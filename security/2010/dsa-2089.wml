@@ -1,5 +1,5 @@
 #use wml::debian::translation-check translation="1.1"
-<define-tag description>several vulnerabilities</define-tag>
+<define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
 <p>ハイパーテキストプリプロセッサ PHP5 に、リモートから攻撃可能な複数の問
@@ -54,4 +54,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2089.data"
-# $Id: dsa-2089.wml,v 1.1 2010/08/23 14:11:18 kmuto Exp $
+# $Id: dsa-2089.wml,v 1.2 2010/08/28 00:51:08 kmuto Exp $

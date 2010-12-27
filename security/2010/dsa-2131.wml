@@ -1,5 +1,5 @@
 #use wml::debian::translation-check translation="1.2"
-<define-tag description>arbitrary code execution</define-tag>
+<define-tag description>任意コードの実行</define-tag>
 <define-tag moreinfo>
 
 <p>exim4 に、リモートの攻撃者に root ユーザ権限で任意のコードの実行を許
@@ -29,4 +29,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2131.data"
-# $Id: dsa-2131.wml,v 1.2 2010/12/17 14:28:14 taffit-guest Exp $
+# $Id: dsa-2131.wml,v 1.3 2010/12/27 05:16:27 kmuto Exp $

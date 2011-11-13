@@ -2,7 +2,7 @@
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
-NSS 暗号化ライブラリのこの更新で、<q>DigiCert Sdn. Bhd</q> 中間認証局の証
+<p>NSS 暗号化ライブラリのこの更新で、<q>DigiCert Sdn. Bhd</q> 中間認証局の証
 明書を信用しないようにしました。詳細な情報は、
 <a href="http://blog.mozilla.com/security/2011/11/03/revoking-trust-in-digicert-sdn-bhd-intermediate-certificate-authority/">\
 Mozilla セキュリティブログ</a> にあります。</p>
@@ -37,4 +37,4 @@ CVE-2011-3640</a>)。
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2339.data"
-# $Id: dsa-2339.wml,v 1.1 2011/11/10 15:50:52 kmuto Exp $
+# $Id: dsa-2339.wml,v 1.2 2011/11/13 04:44:32 kmuto Exp $

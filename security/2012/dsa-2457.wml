@@ -6,7 +6,7 @@
 Firefox ベースのウェブブラウザ iceweasel に、複数の問題が発見されま
 した。含まれている XULRunner ライブラリが、Debian で複数の他のアプリ
 ケーションに対するレンダリングサービスを提供しています。
-<p>
+</p>
 
 <ul>
 
@@ -73,4 +73,4 @@ Firefox ベースのウェブブラウザ iceweasel に、複数の問題が発�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2457.data"
-# $Id: dsa-2457.wml,v 1.2 2012/05/13 21:25:51 taffit Exp $
+# $Id: dsa-2457.wml,v 1.3 2012/08/10 00:48:41 kmuto Exp $

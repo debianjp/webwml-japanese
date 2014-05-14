@@ -3,9 +3,13 @@ before_install:
   - "sudo apt-get -qq update"
   - "sudo apt-get -qq install git ca-certificates make cvs wget po4a wml libtimedate-perl libwww-perl"
   - "echo '/1 :pserver:anonymous@anonscm.debian.org:2401/cvs/webwml A' > ~/.cvspass"
-  - "pwd; cd ..; cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout -l webwml"
-  - "pwd; mv webwml-japanese webwml/japanese"
+  - "cd ..; cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout -l webwml"
+  - "mv webwml-japanese webwml/japanese"
+  - "cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout webwml/english"
+  - "cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout webwml/Perl"
+  - "cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout webwml/po"
+  - "cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout webwml/german/international/German/credits.tags"
 
 script:
-  - "pwd; make -C japanese"
+  - "cd webwml; make -C japanese"
  

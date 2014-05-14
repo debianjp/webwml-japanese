@@ -2,7 +2,7 @@ language: c
 before_install:
   - "sudo apt-get -qq update"
   - "sudo apt-get -qq install git ca-certificates make cvs wget po4a wml libtimedate-perl libwww-perl"
-  - "cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml login <<EOF\nEOF"
+  - "echo '/1 :pserver:anonymous@anonscm.debian.org:2401/cvs/webwml A' > ~/.cvspass"
   - "pwd; cd ..; cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout -l webwml"
   - "pwd; mv webwml-japanese webwml/japanese"
 

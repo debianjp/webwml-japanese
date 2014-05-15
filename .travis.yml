@@ -18,6 +18,3 @@ notifications:
   irc:
     channels:
       - "irc.debian.or.jp#debsys"
-#    template:
-#      - "%{repository} (%{commit}) : %{message} %{foo} "
-#      - "Build details: %{build_url}" 

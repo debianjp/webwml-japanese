@@ -12,4 +12,11 @@ before_install:
 
 script:
   - "cd webwml; make -C japanese"
- 
+
+notifications:
+  irc:
+    channels:
+      - "irc.debian.or.jp#debsys"
+#    template:
+#      - "%{repository} (%{commit}) : %{message} %{foo} "
+#      - "Build details: %{build_url}" 

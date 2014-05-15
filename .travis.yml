@@ -1,5 +1,6 @@
 language: c
 before_install:
+  - "git diff --name-only master > ~/filelist.txt"
   - "sudo apt-get -qq update"
   - "sudo apt-get -qq install git ca-certificates make cvs wget po4a wml libtimedate-perl libwww-perl"
   - "echo '/1 :pserver:anonymous@anonscm.debian.org:2401/cvs/webwml A' > ~/.cvspass"
@@ -11,7 +12,7 @@ before_install:
   - "cvs -Q -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout webwml/german/international/German/credits.tags"
 
 script:
-  - "cd webwml; make -C japanese"
+  - "cd webwml; cat ~/filelist.txt | while read FILE; do make -C japanese/$FILE; done"
 
 notifications:
   irc:

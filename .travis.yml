@@ -1,0 +1,21 @@
+language: c
+before_install:
+  - "git fetch origin master:master"
+  - "git diff --name-only master | while read FILE; do [ -e `dirname $FILE`/Makefile ] && echo make -C japanese/`dirname $FILE` `basename $FILE | sed -e 's/wml$/ja.html/'`; done | grep -Fv 'C . .' > target.sh"
+  - "sudo apt-get -qq update"
+  - "sudo apt-get -qq install git ca-certificates make cvs wget po4a wml libtimedate-perl libwww-perl"
+  - "echo '/1 :pserver:anonymous@anonscm.debian.org:2401/cvs/webwml A' > ~/.cvspass"
+  - "cd ..; cvs -Q -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout -l webwml"
+  - "mv webwml-japanese webwml/japanese"
+  - "cvs -Q -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout webwml/english"
+  - "cvs -Q -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout webwml/Perl"
+  - "cvs -Q -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout webwml/po"
+  - "cvs -Q -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout webwml/german/international/German/credits.tags"
+
+script:
+  - "cd webwml; sh -e japanese/target.sh"
+
+notifications:
+  irc:
+    channels:
+      - "irc.debian.or.jp#debsys"
